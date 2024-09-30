@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Anims\\StompDeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Anims\\StompDeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Spacers\\MudarCam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Spacers\\MudarCam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Spacers\\VcamOneFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Spacers\\VcamOneFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\assets\\scripts\\anims\\eventoalavanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anims\\eventoalavanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|c:\\users\\pedro quedevez\\desktop\\4 semestre\\intro games\\pixel_01\\assets\\scripts\\anims\\rockheadanims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anims\\rockheadanims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RockHeadAnims.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Anims\\RockHeadAnims.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Anims\\RockHeadAnims.cs",
+              "ToolTip": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Anims\\RockHeadAnims.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Anims\\RockHeadAnims.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:48:10.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventoAlavanca.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Anims\\EventoAlavanca.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Anims\\EventoAlavanca.cs",
+              "ToolTip": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Anims\\EventoAlavanca.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Anims\\EventoAlavanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:48:00.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:31:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StompDeath.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Anims\\StompDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Anims\\StompDeath.cs",
+              "ToolTip": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Anims\\StompDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Anims\\StompDeath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:53:15.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MudarCam.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Spacers\\MudarCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spacers\\MudarCam.cs",
+              "ToolTip": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Spacers\\MudarCam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spacers\\MudarCam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:34:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VcamOneFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Spacers\\VcamOneFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spacers\\VcamOneFollow.cs",
+              "ToolTip": "C:\\Users\\Pedro Quedevez\\Desktop\\4 semestre\\intro games\\Pixel_01\\Assets\\Scripts\\Spacers\\VcamOneFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spacers\\VcamOneFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:26:55.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
